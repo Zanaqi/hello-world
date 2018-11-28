@@ -1,1 +1,1 @@
-hey, in this video we will be talking about managed beans.
+I love to-do lists.
